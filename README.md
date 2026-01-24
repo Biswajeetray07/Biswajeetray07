@@ -1,75 +1,74 @@
-<h1 align="center">Hi, I'm Biswajeet Ray 👋</h1>
-<h3 align="center">Full-Stack Developer • AI Engineer • MLOps Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Biswajeet Ray</h1>
+<h3 align="center">Full-Stack Developer | AI Engineer | MLOps Enthusiast</h3>
 
 <p align="center">
-I build scalable web applications and intelligent AI systems that work in the real world —  
-from clean frontend interfaces to production-grade ML pipelines and LLM-powered platforms.
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/biswajeet-ray">LinkedIn</a> • 
-<a href="https://github.com/Biswajeetray07">GitHub</a> • 
-<a href="mailto:biswajeetray077@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/biswajeet-ray">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:biswajeetray077@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Biswajeetray07">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer focused on **clean architecture & scalable systems**
-- 🤖 AI Engineer building **LLM-powered platforms & ML pipelines**
+- 💻 Full-Stack Developer building **scalable web apps & platforms**
+- 🤖 AI Engineer working on **LLM apps, ML pipelines, and RAG systems**
 - 🔁 Experienced in **deployment, monitoring, retraining, and automation**
-- 🧠 Strong foundation in **DSA, backend systems, and problem-solving**
-- 🌍 I build products end-to-end, not just demos
+- 🧠 Strong in **DSA, backend systems, and problem-solving**
+- 🌱 Always learning, always building
 
 ---
 
 ## 📌 Highlight Projects
 
-### 🥇 Aivon — AI Mentor for Learning DSA (Flagship Project)
-Aivon is an **AI-powered DSA learning platform** where users learn data structures and algorithms with an AI mentor that explains concepts, guides problem-solving, and adapts to the learner’s level.
+### 🥇 Aivon — AI Mentor for Learning DSA
+> AI-powered DSA learning platform with a mentor-like assistant that explains, guides, and adapts to learners.
 
-**What it does**
-- AI mentor that explains DSA concepts step-by-step
-- Interactive problem-solving with hints and guidance
-- Personalized learning paths based on progress
-- Clean dashboard for tracking growth
+- 🤖 AI mentor for step-by-step DSA guidance
+- 📈 Personalized learning paths
+- 🧠 Concept explanations + problem-solving hints
+- 📊 Progress tracking dashboard
 
 **Tech:** React, Next.js, Node.js, Express, MongoDB, LangChain, LLMs
 
 ---
 
-### 🎬 NetflixGPT — AI Movie Recommendation Platform
-- Conversational movie recommendations powered by GPT
-- Personalized suggestions with smart AI summaries
-- Real-time trending data from external APIs
+### 🎬 NetflixGPT — AI Movie Suggestion Platform
+- GPT-powered conversational recommendations
+- Real-time trending data from APIs
+- Smart AI summaries
 
 **Tech:** React, Node.js, Express, MongoDB, OpenAI API, TailwindCSS
 
 ---
 
 ### 🎥 DevTube — Smart Video Platform for Developers
-- YouTube-like platform built for developers
-- Uploads, likes, comments, categorized feeds
+- Developer-only video platform
 - Admin analytics dashboard
+- Responsive UI & optimized performance
 
-**Tech:** Next.js, Node.js, MongoDB, Cloudinary, TailwindCSS
+**Tech:** Next.js, Node.js, MongoDB, Cloudinary
 
 ---
 
-### 🤝 DevTinder — Connect Developers (Not Couples 😄)
-- Skill-based developer matching & collaboration
-- Secure real-time chat using Socket.io
-- Profile creation and AI skill suggestions
+### 🤝 DevTinder — Connect Developers
+- Skill-based matchmaking
+- Real-time chat with Socket.io
+- Secure authentication
 
 **Tech:** React, Node.js, Express, MongoDB, Socket.io, JWT
 
 ---
 
 ### 🔁 Full ML Pipeline with Automated Retraining
-- End-to-end ML pipeline with drift detection
-- Automated retraining workflows
-- Experiment tracking & model registry
+- Drift detection + auto retraining
+- Experiment tracking
 - Containerized FastAPI deployment
 
 **Tech:** Python, MLflow, Evidently AI, FastAPI, Docker
@@ -77,83 +76,111 @@ Aivon is an **AI-powered DSA learning platform** where users learn data structur
 ---
 
 ### 🧠 Knowledge Graph + LLM Hybrid AI
-- Combined symbolic reasoning with LLM intelligence
-- Hybrid RAG system for high-accuracy retrieval
-- Deployed as scalable microservice
+- Hybrid RAG for better accuracy
+- Graph + vector search
+- Scalable microservice
 
 **Tech:** Neo4j, LangChain, FAISS, FastAPI
 
 ---
 
-## 💼 Experience (Remote / Freelance / Internship)
+## 💼 Experience
 
-### 🚀 Founding Engineer — MyEasyLearn (Africa Startup)
-**Oct 2025 – Present | Remote**
-- Building and maintaining production-ready MERN applications
-- Designing scalable backend APIs and responsive UI
-- Implemented authentication, real-time data handling, and REST services
-- Focused on deployment automation and code scalability
-
-**Tech:** React, Next.js, Node.js, Express, MongoDB, TailwindCSS
+### 🚀 Founding Engineer — MyEasyLearn (Remote)
+- Built scalable MERN apps for production
+- Designed backend APIs & authentication
+- Focused on deployment automation
 
 ---
 
-### 💻 Software Developer — Freelance (USA & India Clients)
-- Delivered full-stack web apps, dashboards, and backend systems
-- Built secure REST APIs and integrated Stripe, Firebase, and other services
-- Designed SEO-optimized and user-friendly interfaces
-- Worked in Agile teams with CI/CD pipelines
+### 💻 Software Developer — Freelance
+- Delivered full-stack solutions to USA & India clients
+- Built secure APIs & dashboards
+- Used CI/CD and Agile workflows
 
 ---
 
-### 🌱 Open Source Contributor / Intern
-- Fixed bugs, improved UI/UX, and added backend features
-- Worked with GitHub PRs, issues, CI, and Docker workflows
+### 🌱 Open Source Contributor
+- Fixed bugs, improved UI, added backend features
+- Worked with PRs, issues, CI, and Docker
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🧑‍💻 Languages
-Python • Java • SQL • JavaScript
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+
+---
 
 ### 🎨 Frontend
-React • Next.js • TailwindCSS • Streamlit
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat&logo=streamlit)
 
-### ⚙️ Backend & APIs
-FastAPI • Node.js • Express
+---
+
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+
+---
 
 ### 🤖 AI / ML
-ML Pipelines • LLMs • RAG • Knowledge Graphs • Model Monitoring • MLflow
+![ML](https://img.shields.io/badge/-Machine%20Learning-black)
+![LLM](https://img.shields.io/badge/-LLMs-black)
+![RAG](https://img.shields.io/badge/-RAG-black)
+![MLflow](https://img.shields.io/badge/-MLflow-black)
+![Neo4j](https://img.shields.io/badge/-Neo4j-black)
+
+---
 
 ### 🗄️ Databases
-MongoDB • PostgreSQL • FAISS • Neo4j
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![FAISS](https://img.shields.io/badge/-FAISS-black)
+![Neo4j](https://img.shields.io/badge/-Neo4j-black)
+
+---
 
 ### ☁️ DevOps & Cloud
-Docker • AWS • GitHub Actions • CI/CD
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-black?style=flat&logo=githubactions)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswajeetray07&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajeetray07&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Biswajeetray07&theme=tokyo-night)
 
 ---
 
 ## 🎓 Education
-**B.Tech – Computer Science & Engineering**  
-Lovely Professional University (2022–2026)  
-CGPA: 6.8
+🎓 B.Tech in Computer Science & Engineering  
+Lovely Professional University (2022–2026)
 
 ---
 
-## 📜 Certifications
-- IBM AI Engineering Professional Certificate
-- Cloud Computing – NPTEL
-- GenAI for Everyone – Coursera
-- Prompt Engineering for ChatGPT
-
----
-
-## 📫 Reach Me
+## 📫 Connect With Me
 - 📧 Email: biswajeetray077@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/biswajeet-ray
-- 🧑‍💻 GitHub: https://github.com/Biswajeetray07
+- 💻 GitHub: https://github.com/Biswajeetray07
 
 ---
 
-⭐ *I enjoy building systems that are reliable, scalable, and genuinely useful.*
+⭐ *Building things that scale, learn, and actually help people.*
