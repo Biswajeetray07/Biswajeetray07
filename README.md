@@ -1,100 +1,143 @@
-# Hi, I’m Biswajeet Ray 👋  
-Full-Stack Developer & Machine Learning Engineer  
-Building intelligent, scalable, real-world applications
+<h1 align="center">Hi, I'm Biswajeet Ray 👋</h1>
+<h3 align="center">Full-Stack Developer • AI Engineer • MLOps Enthusiast</h3>
 
-I’m a developer who enjoys working at the intersection of **software engineering and artificial intelligence**.  
-I build complete systems — from frontend interfaces and backend APIs to ML pipelines and LLM-powered intelligence — with a strong focus on **clean architecture, performance, and deployment**.
+<p align="center">
+I build scalable web applications and intelligent AI systems that work in the real world —  
+from clean frontend interfaces to production-grade ML pipelines and LLM-powered platforms.
+</p>
 
----
-
-## 🔍 What I Do (In Practice)
-I don’t just build models or websites — I build **products that work end-to-end**.
-
-- Design and develop **full-stack web applications** with clean UI and scalable backend
-- Build **AI-powered systems** (ML pipelines, LLM apps, RAG, chatbots)
-- Deploy production-ready services using **Docker, FastAPI, and cloud**
-- Monitor, retrain, and version ML models in real environments
-- Turn ideas into usable tools with a strong focus on reliability
+<p align="center">
+<a href="https://linkedin.com/in/biswajeet-ray">LinkedIn</a> • 
+<a href="https://github.com/Biswajeetray07">GitHub</a> • 
+<a href="mailto:biswajeetray077@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 Featured Projects (Case-Study Style)
+## 🚀 About Me
+
+- 💻 Full-Stack Developer focused on **clean architecture & scalable systems**
+- 🤖 AI Engineer building **LLM-powered platforms & ML pipelines**
+- 🔁 Experienced in **deployment, monitoring, retraining, and automation**
+- 🧠 Strong foundation in **DSA, backend systems, and problem-solving**
+- 🌍 I build products end-to-end, not just demos
+
+---
+
+## 📌 Highlight Projects
+
+### 🥇 Aivon — AI Mentor for Learning DSA (Flagship Project)
+Aivon is an **AI-powered DSA learning platform** where users learn data structures and algorithms with an AI mentor that explains concepts, guides problem-solving, and adapts to the learner’s level.
+
+**What it does**
+- AI mentor that explains DSA concepts step-by-step
+- Interactive problem-solving with hints and guidance
+- Personalized learning paths based on progress
+- Clean dashboard for tracking growth
+
+**Tech:** React, Next.js, Node.js, Express, MongoDB, LangChain, LLMs
+
+---
+
+### 🎬 NetflixGPT — AI Movie Recommendation Platform
+- Conversational movie recommendations powered by GPT
+- Personalized suggestions with smart AI summaries
+- Real-time trending data from external APIs
+
+**Tech:** React, Node.js, Express, MongoDB, OpenAI API, TailwindCSS
+
+---
+
+### 🎥 DevTube — Smart Video Platform for Developers
+- YouTube-like platform built for developers
+- Uploads, likes, comments, categorized feeds
+- Admin analytics dashboard
+
+**Tech:** Next.js, Node.js, MongoDB, Cloudinary, TailwindCSS
+
+---
+
+### 🤝 DevTinder — Connect Developers (Not Couples 😄)
+- Skill-based developer matching & collaboration
+- Secure real-time chat using Socket.io
+- Profile creation and AI skill suggestions
+
+**Tech:** React, Node.js, Express, MongoDB, Socket.io, JWT
+
+---
 
 ### 🔁 Full ML Pipeline with Automated Retraining
-**Python · MLflow · Evidently AI · FastAPI · Docker**  
-Engineered a production-grade ML pipeline that automates data ingestion, feature engineering, training, evaluation, and retraining.  
-Integrated data-drift detection to trigger retraining automatically and deployed the model as a containerized API for scalable serving.
+- End-to-end ML pipeline with drift detection
+- Automated retraining workflows
+- Experiment tracking & model registry
+- Containerized FastAPI deployment
 
-**What this shows:** real-world MLOps, not just model training.
-
----
-
-### 🧠 Knowledge Graph & LLM Hybrid AI
-**Neo4j · LangChain · FAISS · FastAPI**  
-Built a hybrid AI system combining symbolic reasoning (knowledge graph) with neural intelligence (LLMs).  
-Implemented hybrid RAG to improve answer accuracy and deployed it as a scalable microservice.
-
-**What this shows:** advanced AI system design and backend engineering.
+**Tech:** Python, MLflow, Evidently AI, FastAPI, Docker
 
 ---
 
-### 📄 PDF Q&A Chatbot
-**LangChain · Streamlit · FAISS · Gemini**  
-Developed a full-stack GenAI application where users can upload PDFs and query them using natural language.  
-Handled document parsing, embedding generation, vector search, and UI in a clean workflow.
+### 🧠 Knowledge Graph + LLM Hybrid AI
+- Combined symbolic reasoning with LLM intelligence
+- Hybrid RAG system for high-accuracy retrieval
+- Deployed as scalable microservice
 
-**What this shows:** applied GenAI + product thinking.
+**Tech:** Neo4j, LangChain, FAISS, FastAPI
 
 ---
 
-### 🧮 Stack-Based Expression Evaluator
-**Java · DSA · CLI Tool**  
-Built a command-line tool to evaluate infix expressions using stack-based parsing and postfix evaluation.  
-Handled operator precedence, associativity, and nested parentheses efficiently.
+## 💼 Experience (Remote / Freelance / Internship)
 
-**What this shows:** strong foundations in DSA and logic building.
+### 🚀 Founding Engineer — MyEasyLearn (Africa Startup)
+**Oct 2025 – Present | Remote**
+- Building and maintaining production-ready MERN applications
+- Designing scalable backend APIs and responsive UI
+- Implemented authentication, real-time data handling, and REST services
+- Focused on deployment automation and code scalability
+
+**Tech:** React, Next.js, Node.js, Express, MongoDB, TailwindCSS
+
+---
+
+### 💻 Software Developer — Freelance (USA & India Clients)
+- Delivered full-stack web apps, dashboards, and backend systems
+- Built secure REST APIs and integrated Stripe, Firebase, and other services
+- Designed SEO-optimized and user-friendly interfaces
+- Worked in Agile teams with CI/CD pipelines
+
+---
+
+### 🌱 Open Source Contributor / Intern
+- Fixed bugs, improved UI/UX, and added backend features
+- Worked with GitHub PRs, issues, CI, and Docker workflows
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖥️ Frontend
-- HTML, CSS, JavaScript
-- React (basic to intermediate)
-- Streamlit (AI app UI)
-- Responsive UI design
+### 🧑‍💻 Languages
+Python • Java • SQL • JavaScript
 
-### ⚙️ Backend
-- FastAPI, REST APIs
-- Authentication & API design
-- Microservices architecture
-- Dockerized services
+### 🎨 Frontend
+React • Next.js • TailwindCSS • Streamlit
+
+### ⚙️ Backend & APIs
+FastAPI • Node.js • Express
 
 ### 🤖 AI / ML
-- Machine Learning Pipelines
-- LLMs, RAG, Hybrid Search
-- Knowledge Graphs (Neo4j)
-- Model monitoring & retraining
-- MLflow experiment tracking
+ML Pipelines • LLMs • RAG • Knowledge Graphs • Model Monitoring • MLflow
 
-### 🗄️ Databases & Storage
-- SQL
-- Vector databases (FAISS)
-- Graph databases (Neo4j)
+### 🗄️ Databases
+MongoDB • PostgreSQL • FAISS • Neo4j
 
-### ☁️ DevOps & Tools
-- Docker
-- Git & GitHub
-- AWS (basics)
-- Linux environment
-- CI/CD (basic)
+### ☁️ DevOps & Cloud
+Docker • AWS • GitHub Actions • CI/CD
 
 ---
 
 ## 🎓 Education
-**B.Tech in Computer Science & Engineering**  
-Lovely Professional University, Punjab (2022 – 2026)  
-CGPA: 6.7
+**B.Tech – Computer Science & Engineering**  
+Lovely Professional University (2022–2026)  
+CGPA: 6.8
 
 ---
 
@@ -106,19 +149,11 @@ CGPA: 6.7
 
 ---
 
-## 📈 Currently Learning & Improving
-- Advanced system design for AI applications
-- Scalable backend architecture
-- Better frontend UX for AI tools
-- Production MLOps workflows
+## 📫 Reach Me
+- 📧 Email: biswajeetray077@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/biswajeet-ray
+- 🧑‍💻 GitHub: https://github.com/Biswajeetray07
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/biswajeet-ray
-- GitHub: https://github.com/Biswajeetray07
-- Email: biswajeetray077@gmail.com
-
----
-
-⭐ I enjoy building things that actually work in the real world — not just demos.
+⭐ *I enjoy building systems that are reliable, scalable, and genuinely useful.*
