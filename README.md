@@ -39,30 +39,12 @@
 
 ---
 
-### 🎬 NetflixGPT — AI Movie Suggestion Platform
-- GPT-powered conversational recommendations
-- Real-time trending data from APIs
-- Smart AI summaries
-
-**Tech:** React, Node.js, Express, MongoDB, OpenAI API, TailwindCSS
-
----
-
 ### 🎥 DevTube — Smart Video Platform for Developers
 - Developer-only video platform
 - Admin analytics dashboard
 - Responsive UI & optimized performance
 
 **Tech:** Next.js, Node.js, MongoDB, Cloudinary
-
----
-
-### 🤝 DevTinder — Connect Developers
-- Skill-based matchmaking
-- Real-time chat with Socket.io
-- Secure authentication
-
-**Tech:** React, Node.js, Express, MongoDB, Socket.io, JWT
 
 ---
 
@@ -81,22 +63,6 @@
 - Scalable microservice
 
 **Tech:** Neo4j, LangChain, FAISS, FastAPI
-
----
-
-## 💼 Experience
-
-### 🚀 Founding Engineer — MyEasyLearn (Remote)
-- Built scalable MERN apps for production
-- Designed backend APIs & authentication
-- Focused on deployment automation
-
----
-
-### 💻 Software Developer — Freelance
-- Delivered full-stack solutions to USA & India clients
-- Built secure APIs & dashboards
-- Used CI/CD and Agile workflows
 
 ---
 
