@@ -41,7 +41,7 @@ I'm **Biswajeet Ray**, a final-year B.Tech CSE student at **Lovely Professional 
 ---
 
 ### 🥇 Aivon — AI-Powered DSA Learning Platform
-#### 🔗 [github.com/Biswajeetray07/Aivon-DSA-Platform](https://github.com/Biswajeetray07/Aivon-DSA-Platform)
+#### 🔗 [https://github.com/Biswajeetray07/Aivon---Your-Career-Guide](https://github.com/Biswajeetray07/Aivon---Your-Career-Guide)
 
 > *The AI mentor you wish you had when learning DSA.*
 
