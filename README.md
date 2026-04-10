@@ -79,7 +79,7 @@ A full end-to-end predictive AI system with automated preprocessing, model train
 ---
 
 ### 🎨 AI Creator Platform
-#### 🔗 [github.com/Biswajeetray07/AI-Creator-Platform](https://github.com/Biswajeetray07/AI-Creator-Platform)
+#### 🔗 [https://github.com/Biswajeetray07/Creator-AI---Editing-Platform](https://github.com/Biswajeetray07/Creator-AI---Editing-Platform)
 
 > *Generative AI infrastructure for multi-modal content creation.*
 
