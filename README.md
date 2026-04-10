@@ -212,25 +212,19 @@ A production-grade multi-agent architecture where specialized AI assistants coll
 ---
 
 ## 📊 GitHub Stats & Activity
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Biswajeetray07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajeetray07&theme=tokyonight&hide_border=true" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Biswajeetray07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Biswajeetray07&theme=tokyonight&hide_border=true&card_width=400" />
 <br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeetray07&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
-
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeetray07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css&card_width=400" />
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Biswajeetray07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Biswajeetray07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
