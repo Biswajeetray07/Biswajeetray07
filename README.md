@@ -221,17 +221,17 @@ A production-grade multi-agent architecture where specialized AI assistants coll
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Biswajeetray07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Biswajeet's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Biswajeetray07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Biswajeetray07&theme=tokyonight&hide_border=true" alt="Biswajeet's Streak" />
+      <img src="https://streak-stats.demolab.com?user=Biswajeetray07&theme=tokyonight&hide_border=true&cache_seconds=86400" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeetray07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeetray07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -239,9 +239,11 @@ A production-grade multi-agent architecture where specialized AI assistants coll
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Biswajeetray07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Biswajeetray07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&cache_seconds=86400" />
 
 </div>
 
