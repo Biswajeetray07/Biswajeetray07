@@ -117,7 +117,7 @@ An agentic AI system that takes a topic as input and handles the full pipeline a
 ---
 
 ### 🤖 Multi-Assistant Code Agent
-#### 🔗 [github.com/Biswajeetray07/Multi-Assistant-Code-Agent](https://github.com/Biswajeetray07/Multi-Assistant-Code-Agent)
+#### 🔗 [https://github.com/Biswajeetray07/Multi-Agent-CodeBase-Assistant-With-Endee](https://github.com/Biswajeetray07/Multi-Agent-CodeBase-Assistant-With-Endee)
 
 > *A collaborative multi-agent system that writes, reviews, and debugs code.*
 
@@ -132,18 +132,6 @@ A production-grade multi-agent architecture where specialized AI assistants coll
 
 **Tech Stack:**
 `Python` `LangChain` `LLM Agents` `FastAPI` `Streamlit` `OpenAI / Groq`
-
----
-
-### 🎥 DevTube — Smart Video Platform for Developers
-#### 🔗 [github.com/Biswajeetray07/DevTube](https://github.com/Biswajeetray07/DevTube)
-
-> *YouTube, but built for developers — with an analytics-first approach.*
-
-A developer-centric video streaming platform with admin analytics, optimized video delivery via Cloudinary, and a responsive, performance-tuned UI.
-
-**Tech Stack:**
-`Next.js` `Node.js` `MongoDB` `Cloudinary` `TailwindCSS`
 
 ---
 
